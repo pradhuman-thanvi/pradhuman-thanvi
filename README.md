@@ -71,14 +71,5 @@
 <p align="center">In the heart of Maru Bhumi 🌵</p>
 
 ---
-
-## 🎨 Tips for Implementation
-
-- Use a **high resolution**, wide **desert + camel banner**. Make sure it’s not too tall (so page doesn’t scroll too much).
-- Stick to a **warm sand / ochre / terracotta palette** (e.g. `#C5833C, #A66E3A, #8A5A2B, #F0E0B0`) for text or accent colors.
-- Use **rounded corners / soft edges** for visuals to match a “soft dunes” feel.
-- You can animate shadows or overlays (semi-transparent gradient) over the banner to improve readability.
-
----
 PROJECT - MARU BHUMI | DDOOR
 ```
